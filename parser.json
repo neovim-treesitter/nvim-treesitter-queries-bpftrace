@@ -1,8 +1,9 @@
 {
-  "max_version": null,
+  "generate": null,
   "lang": "bpftrace",
-  "location": null,
   "url": "https://github.com/sgruszka/tree-sitter-bpftrace",
   "semver": false,
-  "min_version": null
+  "parser_version": "774f4458ad39691336ead1ee361b22434c4cdec7",
+  "location": null,
+  "generate_from_json": null
 }
